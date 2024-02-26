@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Dilwale Dulhania Le Jayenge",
+    "imageName": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Dilwale_Dulhania_Le_Jayenge_poster.jpg/220px-Dilwale_Dulhania_Le_Jayenge_poster.jpg",
+    "description": "Dilwale Dulhania Le Jayenge is a timeless Bollywood romantic drama film directed by Aditya Chopra. The story follows Raj and Simran, two young lovers from different cultural backgrounds, who fall in love during a trip across Europe. It stars Shah Rukh Khan and Kajol, and is known for its iconic scenes and memorable dialogues.",
+    "director": "Aditya Chopra",
+    "starCast": ["Shah Rukh Khan", "Kajol", "Amrish Puri"],
+    "releaseDate": "1995-10-20",
+    "imdbRating": "8.1"
+  },
+  {
+    "title": "Titanic",
+    "imageName": "https://m.media-amazon.com/images/I/610CYrdV7AS._AC_UF1000,1000_QL80_.jpg",
+    "description": "Titanic is an epic Hollywood romantic disaster film directed by James Cameron. It tells the tragic story of the ill-fated RMS Titanic and the romance between passengers Jack and Rose. Starring Leonardo DiCaprio and Kate Winslet, the film is praised for its breathtaking visuals and emotional impact.",
+    "director": "James Cameron",
+    "starCast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+    "releaseDate": "1997-12-19",
+    "imdbRating": "7.8"
+  },
+  {
+    "title": "The Notebook",
+    "imageName": "https://m.media-amazon.com/images/I/51ZFEoFVpBL._AC_UF1000,1000_QL80_.jpg",
+    "description": "The Notebook is a heartwarming Hollywood romantic drama film directed by Nick Cassavetes. It portrays the enduring love story of Noah and Allie, two young lovers who are separated by social class but reunite years later. Starring Ryan Gosling and Rachel McAdams, the film is based on the novel by Nicholas Sparks.",
+    "director": "Nick Cassavetes",
+    "starCast": ["Ryan Gosling", "Rachel McAdams", "James Garner"],
+    "releaseDate": "2004-06-25",
+    "imdbRating": "7.8"
+  },
+  {
+    "title": "Jab We Met",
+    "imageName": "https://stat4.bollywoodhungama.in/wp-content/uploads/2020/04/75-10.jpg",
+    "description": "Jab We Met is a delightful Bollywood romantic comedy film directed by Imtiaz Ali. The film follows the journey of two strangers, Aditya and Geet, who meet on a train journey and form an unlikely bond. Starring Shahid Kapoor and Kareena Kapoor Khan, the film is known for its catchy music and memorable performances.",
+    "director": "Imtiaz Ali",
+    "starCast": ["Shahid Kapoor", "Kareena Kapoor Khan", "Dara Singh"],
+    "releaseDate": "2007-10-26",
+    "imdbRating": "7.9"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "imageName": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_.jpg",
+    "description": "Pride and Prejudice is a captivating Hollywood romantic drama film directed by Joe Wright. Based on the classic novel by Jane Austen, it explores themes of love, class, and societal expectations in 19th-century England. Starring Keira Knightley and Matthew Macfadyen, the film is praised for its faithful adaptation and strong performances.",
+    "director": "Joe Wright",
+    "starCast": ["Keira Knightley", "Matthew Macfadyen", "Rosamund Pike"],
+    "releaseDate": "2005-11-11",
+    "imdbRating": "7.8"
+  },
+  {
+    "title": "Hum Dil De Chuke Sanam",
+    "imageName": "https://m.media-amazon.com/images/M/MV5BMmZmZDAzZWEtYmNkNC00NWVhLWJkOGMtZTA0NjUwZGUxYjc3XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg",
+    "description": "Hum Dil De Chuke Sanam is a mesmerizing Bollywood romantic drama film directed by Sanjay Leela Bhansali. The film follows the journey of Nandini, who is torn between her love for Sameer and her duty towards her arranged marriage with Vanraj. Starring Salman Khan, Aishwarya Rai, and Ajay Devgn, the film is known for its passionate performances and soulful music.",
+    "director": "Sanjay Leela Bhansali",
+    "starCast": ["Salman Khan", "Aishwarya Rai", "Ajay Devgn"],
+    "releaseDate": "1999-06-18",
+    "imdbRating": "7.5"
+  },
+  {
+    "title": "La La Land",
+    "imageName": "https://m.media-amazon.com/images/I/61VCj3ofVIL._AC_UF894,1000_QL80_.jpg",
+    "description": "La La Land is a mesmerizing Hollywood romantic musical film directed by Damien Chazelle. Set in modern-day Los Angeles, the film follows the love story of aspiring actress Mia and jazz musician Sebastian as they pursue their dreams in the city of stars. Starring Ryan Gosling and Emma Stone, the film is celebrated for its dazzling cinematography and enchanting musical numbers.",
+    "director": "Damien Chazelle",
+    "starCast": ["Ryan Gosling", "Emma Stone", "John Legend"],
+    "releaseDate": "2016-12-09",
+    "imdbRating": "8.0"
+  },
+  {
+    "title": "Bajirao Mastani",
+    "imageName": "https://i.pinimg.com/474x/51/f4/d5/51f4d54ed870d93bb2f501f350cfadeb.jpg",
+    "description": "Bajirao Mastani is an epic Bollywood romantic drama film directed by Sanjay Leela Bhansali. Based on the historical romance between Peshwa Bajirao and his second wife Mastani, the film showcases their tumultuous love story amidst political intrigue and warfare. Starring Ranveer Singh, Deepika Padukone, and Priyanka Chopra, the film is praised for its grandeur and powerful performances.",
+    "director": "Sanjay Leela Bhansali",
+    "starCast": ["Ranveer Singh", "Deepika Padukone", "Priyanka Chopra"],
+    "releaseDate": "2015-12-18",
+    "imdbRating": "7.2"
+  },
+  {
+    "title": "Hum Aapke Hain Koun..!",
+    "imageName": "https://m.media-amazon.com/images/M/MV5BZjc0ODAwMmItMmQwMy00MmRmLThjOGYtZGEwYjQ2ZjcyYzA3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "description": "Hum Aapke Hain Koun..! is a beloved Bollywood romantic drama film directed by Sooraj Barjatya. The film celebrates the bond of family and love as it follows the story of two lovers, Prem and Nisha, whose lives are intertwined with a series of joyful and poignant events. Starring Salman Khan and Madhuri Dixit, the film is known for its vibrant songs and timeless appeal.",
+    "director": "Sooraj Barjatya",
+    "starCast": ["Salman Khan", "Madhuri Dixit", "Renuka Shahane"],
+    "releaseDate": "1994-08-05",
+    "imdbRating": "7.5"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "imageName": "https://i.pinimg.com/550x/07/ff/f1/07fff1ce1f2196b38105b980985ad3de.jpg",
+    "description": "The Fault in Our Stars is a poignant Hollywood romantic drama film directed by Josh Boone. Based on the bestselling novel by John Green, the film follows the love story of two teenagers, Hazel and Gus, who meet in a cancer support group and embark on a journey of love and self-discovery. Starring Shailene Woodley and Ansel Elgort, the film is celebrated for its heartfelt performances and emotional depth.",
+    "director": "Josh Boone",
+    "starCast": ["Shailene Woodley", "Ansel Elgort", "Nat Wolff"],
+    "releaseDate": "2014-06-06",
+    "imdbRating": "7.7"
+  },
+  {
+    "title": "Kuch Kuch Hota Hai",
+    "imageName": "https://e0.pxfuel.com/wallpapers/843/600/desktop-wallpaper-kuch-kuch-hota-hai-1998-thumbnail.jpg",
+    "description": "Kuch Kuch Hota Hai is a beloved Bollywood romantic drama film directed by Karan Johar. The film intertwines the past and present as it explores themes of friendship, love, and destiny. Starring Shah Rukh Khan, Kajol, and Rani Mukerji, the film is celebrated for its iconic dialogues and unforgettable music.",
+    "director": "Karan Johar",
+    "starCast": ["Shah Rukh Khan", "Kajol", "Rani Mukerji"],
+    "releaseDate": "1998-10-16",
+    "imdbRating": "7.6"
+  },
+  {
+    "title": "Crazy Rich Asians",
+    "imageName": "https://image.tmdb.org/t/p/original/flCSWJSW0WaYmUYrSGv4jp7702z.jpg",
+    "description": "Crazy Rich Asians is a glamorous Hollywood romantic comedy-drama film directed by Jon M. Chu. The film follows the romantic escapades of Rachel Chu, a young professor, and Nick Young, a wealthy bachelor, as they navigate the complexities of love and family in Singapore's high society. Starring Constance Wu and Henry Golding, the film is praised for its opulent visuals and entertaining storyline.",
+    "director": "Jon M. Chu",
+    "starCast": ["Constance Wu", "Henry Golding", "Michelle Yeoh"],
+    "releaseDate": "2018-08-15",
+    "imdbRating": "6.9"
+  },
+  {
+    "title": "Love Actually",
+    "imageName": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Love_Actually_movie.jpg/220px-Love_Actually_movie.jpg",
+    "description": "Love Actually is a heartwarming Hollywood romantic comedy-drama film directed by Richard Curtis. The film interweaves multiple love stories set during the holiday season in London, exploring themes of love, loss, and redemption. Starring an ensemble cast including Hugh Grant, Emma Thompson, and Liam Neeson, the film is celebrated for its charming vignettes and feel-good spirit.",
+    "director": "Richard Curtis",
+    "starCast": ["Hugh Grant", "Emma Thompson", "Liam Neeson"],
+    "releaseDate": "2003-11-07",
+    "imdbRating": "7.6"
+  }
+]

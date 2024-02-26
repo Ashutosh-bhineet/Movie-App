@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Jhund",
+    "imageName": "https://upload.wikimedia.org/wikipedia/en/5/5b/Jhund_Film_Poster.jpg",
+    "description": "Jhund is a sports drama film directed by Nagraj Manjule. It stars Amitabh Bachchan in the lead role of a retired sports teacher who starts a slum soccer team.",
+    "director": "Nagraj Manjule",
+    "starCast": ["Amitabh Bachchan", "Akash Thosar", "Rinku Rajguru"],
+    "releaseDate": "2022-03-04",
+    "imdbRating": "8.1"
+  },
+  {
+    "title": "Gone Girl",
+    "imageName": "https://upload.wikimedia.org/wikipedia/en/0/05/Gone_Girl_Poster.jpg",
+    "description": "Gone Girl is a psychological thriller film directed by David Fincher. It stars Ben Affleck and Rosamund Pike.",
+    "director": "David Fincher",
+    "starCast": ["Ben Affleck", "Rosamund Pike", "Neil Patrick Harris"],
+    "releaseDate": "2014-10-03",
+    "imdbRating": "8.1"
+  },
+  {
+    "title": "Kahaani",
+    "imageName": "https://upload.wikimedia.org/wikipedia/en/f/f2/Kahaani_poster.jpg",
+    "description": "Kahaani is a Bollywood mystery thriller film directed by Sujoy Ghosh. It stars Vidya Balan as a pregnant woman searching for her missing husband.",
+    "director": "Sujoy Ghosh",
+    "starCast": ["Vidya Balan", "Parambrata Chatterjee", "Nawazuddin Siddiqui"],
+    "releaseDate": "2012-03-09",
+    "imdbRating": "8.1"
+  },
+  {
+    "title": "Se7en",
+    "imageName": "https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg",
+    "description": "Se7en is a psychological thriller film directed by David Fincher. It stars Brad Pitt and Morgan Freeman as detectives hunting a serial killer.",
+    "director": "David Fincher",
+    "starCast": ["Brad Pitt", "Morgan Freeman", "Gwyneth Paltrow"],
+    "releaseDate": "1995-09-22",
+    "imdbRating": "8.6"
+  },
+  {
+    "title": "Talaash",
+    "imageName": "https://m.media-amazon.com/images/M/MV5BNTg5NzI3NzQzNl5BMl5BanBnXkFtZTcwMjM3MDU2OA@@._V1_.jpg",
+    "description": "Talaash is a Bollywood psychological thriller film directed by Reema Kagti. It stars Aamir Khan, Kareena Kapoor Khan, and Rani Mukerji.",
+    "director": "Reema Kagti",
+    "starCast": ["Aamir Khan", "Kareena Kapoor Khan", "Rani Mukerji"],
+    "releaseDate": "2012-11-30",
+    "imdbRating": "7.2"
+  },
+  {
+    "title": "Prisoners",
+    "imageName": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg",
+    "description": "Prisoners is a psychological thriller film directed by Denis Villeneuve. It stars Hugh Jackman and Jake Gyllenhaal.",
+    "director": "Denis Villeneuve",
+    "starCast": ["Hugh Jackman", "Jake Gyllenhaal", "Viola Davis"],
+    "releaseDate": "2013-09-20",
+    "imdbRating": "8.1"
+  }
+]

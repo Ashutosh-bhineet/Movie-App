@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Inception",
+    "imageName": "https://m.media-amazon.com/images/I/71DwIcSgFcS.jpg",
+    "description": "Inception is a mind-bending science fiction action film directed by Christopher Nolan. It explores the concept of shared dreaming and follows a skilled thief who is tasked with planting an idea into the subconscious mind of a CEO. Starring Leonardo DiCaprio, Joseph Gordon-Levitt, and Ellen Page, the film is praised for its stunning visual effects, complex narrative, and thought-provoking themes.",
+    "director": "Christopher Nolan",
+    "starCast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+    "releaseDate": "2010-07-16",
+    "imdbRating": "9.2"
+  },
+  {
+    "title": "The Dark Knight",
+    "imageName": "https://m.media-amazon.com/images/I/81CLFQwU-WL.jpg",
+    "description": "The Dark Knight is a gripping superhero film directed by Christopher Nolan. It follows the iconic DC Comics character Batman as he battles the Joker, a sadistic criminal mastermind wreaking havoc on Gotham City. Starring Christian Bale, Heath Ledger, and Aaron Eckhart, the film is celebrated for its intense action sequences, morally complex characters, and Heath Ledger's unforgettable performance as the Joker.",
+    "director": "Christopher Nolan",
+    "starCast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    "releaseDate": "2008-07-18",
+    "imdbRating": "9.1"
+  },
+  {
+    "title": "The Godfather",
+    "imageName": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "description": "The Godfather is an epic crime film directed by Francis Ford Coppola. It chronicles the powerful Italian-American mafia family, the Corleones, and the transformation of the reluctant son Michael into a ruthless mafia boss. Starring Marlon Brando, Al Pacino, and James Caan, the film is hailed as one of the greatest movies ever made, known for its compelling storytelling, rich characters, and iconic quotes.",
+    "director": "Francis Ford Coppola",
+    "starCast": ["Marlon Brando", "Al Pacino", "James Caan"],
+    "releaseDate": "1972-03-24",
+    "imdbRating": "9.0"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "imageName": "https://m.media-amazon.com/images/I/51WYsbIa7TS._AC_UF1000,1000_QL80_.jpg",
+    "description": "The Shawshank Redemption is a poignant drama film directed by Frank Darabont. It follows the story of Andy Dufresne, a banker who is wrongly convicted of murder and sentenced to life in Shawshank State Penitentiary. Starring Tim Robbins, Morgan Freeman, and Bob Gunton, the film explores themes of hope, friendship, and redemption, and is praised for its powerful performances and emotional depth.",
+    "director": "Frank Darabont",
+    "starCast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+    "releaseDate": "1994-09-23",
+    "imdbRating": "9.3"
+  },
+  {
+    "title": "Fight Club",
+    "imageName": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/7/n/2/medium-na-fight-club-movie-poster-for-room-and-home-decor-movie-original-imagzfzfgy8jhhvq.jpeg?q=90&crop=false",
+    "description": "Fight Club is a dark and gritty psychological thriller film directed by David Fincher. It follows an insomniac office worker who forms an underground fight club as a form of catharsis, leading to a spiral of violence and chaos. Starring Brad Pitt, Edward Norton, and Helena Bonham Carter, the film explores themes of masculinity, consumerism, and existentialism, and is known for its provocative content and twist ending.",
+    "director": "David Fincher",
+    "starCast": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+    "releaseDate": "1999-10-15",
+    "imdbRating": "8.9"
+  },
+  {
+    "title": "Forrest Gump",
+    "imageName": "https://image.tmdb.org/t/p/original/yu26pJwGFUyqTJWMWo1mMgBFJ0N.jpg",
+    "description": "Forrest Gump is a heartwarming comedy-drama film directed by Robert Zemeckis. It follows the life of Forrest Gump, a slow-witted but kind-hearted man, as he unwittingly becomes involved in key moments of American history. Starring Tom Hanks, Robin Wright, and Gary Sinise, the film is celebrated for its endearing characters, nostalgic soundtrack, and poignant storytelling.",
+    "director": "Robert Zemeckis",
+    "starCast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+    "releaseDate": "1994-07-06",
+    "imdbRating": "8.8"
+  },
+  {
+    "title": "Pulp Fiction",
+    "imageName": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb5DY5LRj4CVfhVYpjtoU3IFzlLTCVO8ImMHHXGL-v_w&s",
+    "description": "Pulp Fiction is a stylish and unconventional black comedy crime film directed by Quentin Tarantino. It interweaves multiple storylines involving mobsters, hitmen, and boxers in the criminal underworld of Los Angeles. Starring John Travolta, Uma Thurman, and Samuel L. Jackson, the film is praised for its non-linear narrative, sharp dialogue, and iconic scenes.",
+    "director": "Quentin Tarantino",
+    "starCast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+    "releaseDate": "1994-10-14",
+    "imdbRating": "9.0"
+  },
+  {
+    "title": "Interstellar",
+    "imageName": "https://m.media-amazon.com/images/I/71GTnYW5ejL._AC_UF1000,1000_QL80_.jpg",
+    "description": "Interstellar is an epic science fiction film directed by Christopher Nolan. It follows a team of astronauts who embark on a journey through a wormhole near Saturn in search of a new habitable planet for humanity. Starring Matthew McConaughey, Anne Hathaway, and Jessica Chastain, the film explores themes of love, sacrifice, and the mysteries of the universe, and is praised for its stunning visuals and emotional depth.",
+    "director": "Christopher Nolan",
+    "starCast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+    "releaseDate": "2014-11-07",
+    "imdbRating": "9.3"
+  },
+  {
+    "title": "Forrest Gump",
+    "imageName": "https://image.tmdb.org/t/p/original/yu26pJwGFUyqTJWMWo1mMgBFJ0N.jpg",
+    "description": "Forrest Gump is a comedy-drama film directed by Robert Zemeckis. It follows the life of Forrest Gump, a slow-witted but kind-hearted man, as he unwittingly becomes involved in key moments of American history. Starring Tom Hanks, Robin Wright, and Gary Sinise, the film is celebrated for its endearing characters, nostalgic soundtrack, and poignant storytelling.",
+    "director": "Robert Zemeckis",
+    "starCast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+    "releaseDate": "1994-07-06",
+    "imdbRating": "8.6"
+  },
+  {
+    "title": "Pulp Fiction",
+    "imageName": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb5DY5LRj4CVfhVYpjtoU3IFzlLTCVO8ImMHHXGL-v_w&s",
+    "description": "Pulp Fiction is a stylish and unconventional black comedy crime film directed by Quentin Tarantino. It interweaves multiple storylines involving mobsters, hitmen, and boxers in the criminal underworld of Los Angeles. Starring John Travolta, Uma Thurman, and Samuel L. Jackson, the film is praised for its non-linear narrative, sharp dialogue, and iconic scenes.",
+    "director": "Quentin Tarantino",
+    "starCast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+    "releaseDate": "1994-10-14",
+    "imdbRating": "8.8"
+  },
+  {
+    "title": "Interstellar",
+    "imageName": "https://m.media-amazon.com/images/I/71GTnYW5ejL._AC_UF1000,1000_QL80_.jpg",
+    "description": "Interstellar is an epic science fiction film directed by Christopher Nolan. It follows a team of astronauts who embark on a journey through a wormhole near Saturn in search of a new habitable planet for humanity. Starring Matthew McConaughey, Anne Hathaway, and Jessica Chastain, the film explores themes of love, sacrifice, and the mysteries of the universe, and is praised for its stunning visuals and emotional depth.",
+    "director": "Christopher Nolan",
+    "starCast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+    "releaseDate": "2014-11-07",
+    "imdbRating": "9.1"
+  }
+]

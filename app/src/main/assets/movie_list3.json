@@ -1,0 +1,101 @@
+[
+  {
+    "title": "3 Idiots",
+    "imageName": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
+    "description": "3 Idiots is a Bollywood comedy-drama film directed by Rajkumar Hirani. It follows the story of three engineering students at an Indian engineering college and explores themes of friendship, education, and societal pressures. Starring Aamir Khan, R. Madhavan, and Sharman Joshi, the film is known for its humor, memorable dialogues, and insightful social commentary.",
+    "director": "Rajkumar Hirani",
+    "starCast": ["Aamir Khan", "R. Madhavan", "Sharman Joshi"],
+    "releaseDate": "2009-12-25",
+    "imdbRating": "8.4"
+  },
+  {
+    "title": "Hera Pheri",
+    "imageName": "https://m.media-amazon.com/images/M/MV5BNDExMTBlZTYtZWMzYi00NmEwLWEzZGYtOTA1MDhmNTc0ODZkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "description": "Hera Pheri is a Bollywood comedy film directed by Priyadarshan. It follows the misadventures of three individuals who find themselves in hilarious situations while trying to make quick money. Starring Akshay Kumar, Sunil Shetty, and Paresh Rawal, the film is celebrated for its witty humor, comic timing, and memorable characters.",
+    "director": "Priyadarshan",
+    "starCast": ["Akshay Kumar", "Sunil Shetty", "Paresh Rawal"],
+    "releaseDate": "2000-03-31",
+    "imdbRating": "8.2"
+  },
+  {
+    "title": "Andaz Apna Apna",
+    "imageName": "https://m.media-amazon.com/images/M/MV5BNGVkODBlYmUtNTMzYi00MjEwLWI3YWUtODNlNjhkMTg4OWJiXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+    "description": "Andaz Apna Apna is a Bollywood comedy film directed by Rajkumar Santoshi. It follows the hilarious antics of two individuals who compete against each other to win the heart of a wealthy heiress. Starring Aamir Khan, Salman Khan, and Raveena Tandon, the film is praised for its slapstick comedy, quirky characters, and memorable dialogues.",
+    "director": "Rajkumar Santoshi",
+    "starCast": ["Aamir Khan", "Salman Khan", "Raveena Tandon"],
+    "releaseDate": "1994-11-04",
+    "imdbRating": "8.2"
+  },
+  {
+    "title": "Munna Bhai M.B.B.S.",
+    "imageName": "https://upload.wikimedia.org/wikipedia/en/8/84/Munna_Bhai_M.B.B.S._poster.jpg",
+    "description": "Munna Bhai M.B.B.S. is a Bollywood comedy-drama film directed by Rajkumar Hirani. It follows the story of Munna, a goon with a heart of gold, who pretends to be a doctor to fulfill his father's wish. Starring Sanjay Dutt and Arshad Warsi, the film is known for its humor, emotional depth, and social message.",
+    "director": "Rajkumar Hirani",
+    "starCast": ["Sanjay Dutt", "Arshad Warsi", "Boman Irani"],
+    "releaseDate": "2003-12-19",
+    "imdbRating": "8.1"
+  },
+  {
+    "title": "Dumb and Dumber",
+    "imageName": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Dumbanddumber.jpg/220px-Dumbanddumber.jpg",
+    "description": "Dumb and Dumber is a hilarious Hollywood comedy film directed by Peter Farrelly. It follows the misadventures of Lloyd and Harry, two well-meaning but dimwitted friends who embark on a cross-country journey to return a briefcase full of money. Starring Jim Carrey and Jeff Daniels, the film is celebrated for its outrageous humor, memorable quotes, and slapstick comedy.",
+    "director": "Peter Farrelly",
+    "starCast": ["Jim Carrey", "Jeff Daniels", "Lauren Holly"],
+    "releaseDate": "1994-12-16",
+    "imdbRating": "7.3"
+  },
+  {
+    "title": "The Hangover",
+    "imageName": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Hangoverposter09.jpg/220px-Hangoverposter09.jpg",
+    "description": "The Hangover is a wild Hollywood comedy film directed by Todd Phillips. It follows the misadventures of four friends who embark on a bachelor party trip to Las Vegas, only to wake up the next morning with no memory of the previous night and a missing groom. Starring Bradley Cooper, Ed Helms, and Zach Galifianakis, the film is praised for its outrageous humor, unpredictable plot twists, and memorable characters.",
+    "director": "Todd Phillips",
+    "starCast": ["Bradley Cooper", "Ed Helms", "Zach Galifianakis"],
+    "releaseDate": "2009-06-05",
+    "imdbRating": "7.7"
+  },
+  {
+    "title": "Superbad",
+    "imageName": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Superbad_Poster.png/220px-Superbad_Poster.png",
+    "description": "Superbad is a hilarious Hollywood teen comedy film directed by Greg Mottola. It follows the misadventures of two high school friends who set out on a quest to buy alcohol for a party, leading to a series of outrageous and awkward encounters. Starring Jonah Hill, Michael Cera, and Christopher Mintz-Plasse, the film is praised for its raunchy humor, relatable characters, and heartfelt moments.",
+    "director": "Greg Mottola",
+    "starCast": ["Jonah Hill", "Michael Cera", "Christopher Mintz-Plasse"],
+    "releaseDate": "2007-08-17",
+    "imdbRating": "7.6"
+  },
+  {
+    "title": "Pineapple Express",
+    "imageName": "https://m.media-amazon.com/images/I/51ETxrFrDqL._AC_UF1000,1000_QL80_.jpg",
+    "description": "Pineapple Express is a hilarious Hollywood stoner action comedy film directed by David Gordon Green. It follows the misadventures of two stoners who become embroiled in a series of bizarre and dangerous events after witnessing a murder. Starring Seth Rogen and James Franco, the film is praised for its absurd humor, dynamic duo, and action-packed sequences.",
+    "director": "David Gordon Green",
+    "starCast": ["Seth Rogen", "James Franco", "Danny McBride"],
+    "releaseDate": "2008-08-06",
+    "imdbRating": "6.9"
+  },
+  {
+    "title": "Dhamaal",
+    "imageName": "https://m.media-amazon.com/images/M/MV5BNGUyNTk0YmYtNjU2YS00NWQ1LTllZGQtYjk5YjU4YzYxZjY3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+    "description": "Dhamaal is a Bollywood comedy film directed by Indra Kumar. It follows the misadventures of four friends who embark on a treasure hunt after discovering a map leading to hidden wealth. Starring Ritesh Deshmukh, Arshad Warsi, and Javed Jaffrey, the film is known for its slapstick comedy, hilarious situations, and ensemble cast.",
+    "director": "Indra Kumar",
+    "starCast": ["Ritesh Deshmukh", "Arshad Warsi", "Javed Jaffrey"],
+    "releaseDate": "2007-09-07",
+    "imdbRating": "7.3"
+  },
+  {
+    "title": "Welcome",
+    "imageName": "https://cdn.cinematerial.com/p/297x/qh4sfqjb/welcome-indian-movie-poster-md.jpg?v=1456244622",
+    "description": "Welcome is a Bollywood comedy film directed by Anees Bazmee. It follows the chaotic events that unfold when a gangster's sister falls in love with a decent man, leading to hilarious misunderstandings and conflicts between the two families. Starring Akshay Kumar, Nana Patekar, and Anil Kapoor, the film is known for its slapstick humor, colorful characters, and entertaining storyline.",
+    "director": "Anees Bazmee",
+    "starCast": ["Akshay Kumar", "Nana Patekar", "Anil Kapoor"],
+    "releaseDate": "2007-12-21",
+    "imdbRating": "6.8"
+  },
+  {
+    "title": "The Mask",
+    "imageName": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/The_Mask_%28film%29_poster.jpg/220px-The_Mask_%28film%29_poster.jpg",
+    "description": "The Mask is a hilarious Hollywood superhero comedy film directed by Chuck Russell. It follows the adventures of Stanley Ipkiss, a timid bank clerk who transforms into a mischievous and confident superhero after wearing a magical mask. Starring Jim Carrey and Cameron Diaz, the film is praised for its zany humor, groundbreaking visual effects, and energetic performances.",
+    "director": "Chuck Russell",
+    "starCast": ["Jim Carrey", "Cameron Diaz", "Peter Riegert"],
+    "releaseDate": "1994-07-29",
+    "imdbRating": "6.9"
+  }
+]
