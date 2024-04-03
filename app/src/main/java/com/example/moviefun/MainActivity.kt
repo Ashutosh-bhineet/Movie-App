@@ -4,36 +4,40 @@ import MovieParser
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.google.android.material.bottomnavigation.BottomNavigationView
 
-class MainActivity : AppCompatActivity(), MovieAdapter.OnItemClickListener {
-    private lateinit var recyclerViews: Array<RecyclerView>
-    private lateinit var adapters: Array<MovieAdapter>
-
+class MainActivity : AppCompatActivity(){
+    lateinit var bottomnav:BottomNavigationView
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        recyclerViews = Array(5) { index ->
-            findViewById<RecyclerView>(resources.getIdentifier("recyclerView$index", "id", packageName)).apply {
-                layoutManager = LinearLayoutManager(this@MainActivity, LinearLayoutManager.HORIZONTAL, false)
+        loadFragment(HomeFragment());
+        bottomnav=findViewById(R.id.bottom_navigation)
+        bottomnav.setOnNavigationItemSelectedListener { menuItem ->
+            when (menuItem.itemId) {
+                R.id.action_home -> {
+                    loadFragment(HomeFragment())
+                    true
+                }   
+                R.id.action_search -> {
+                    loadFragment(Search())
+                    true
+                }
+                R.id.action_fav -> {
+                    loadFragment(Favourites())
+                    true
+                }
+                else -> false
             }
         }
-        adapters = Array(5) { index ->
-            val movies = MovieParser.parseJson(this, "movie_list$index.json") // Adjust file names as needed
-            MovieAdapter(movies, this@MainActivity,index)
-        }
-
-        // Set adapters to RecyclerViews
-        recyclerViews.forEachIndexed { index, recyclerView ->
-            recyclerView.adapter = adapters[index]
-        }
+    }
+    private  fun loadFragment(fragment: Fragment){
+        val transaction = supportFragmentManager.beginTransaction()
+        transaction.replace(R.id.container,fragment)
+        transaction.commit()
     }
 
-    override fun onItemClick(movie: Movie) {
-        val intent = Intent(this, DetailsActivity::class.java).apply {
-            putExtra("movie", movie)
-        }
-        startActivity(intent)
-    }
 }
